@@ -3,9 +3,9 @@ Currently a work in progress. This space will contain hardware configurations an
 # Nano Datacam Project 
 
 ## Overview
-The Nano Datacam is a portable rig for using the Jetson Nano to experiment with machine learning and computer vision. It mixes powerful edge computing technology with high quality professional video capture methods and wireless connectivity to create a unique method of media capture. The project's goal is to create a data camera, a device that blurs borders between digital video, AI, data visualization, computervision and 3D graphics. Such a device can be used in AI research, for generating visuals to accompany live drama and dance performances, for producing experimental documentaries, and other uses to further explore.
+The Nano Datacam is a portable rig for using the Jetson Nano to experiment with machine learning and computer vision. It mixes powerful edge computing technology with high quality professional video capture methods and wireless connectivity to create a unique method of media capture. The project's goal is to create a data camera, a device that blurs the lines seperating digital video capture, AI, data visualization, computer vision and 3D graphics. Such a device can be used in AI research, for generating visuals to accompany live drama and dance performances, for producing experimental documentaries, and other uses to further explore.
 
-The resources on this page can help a developer create a datacam rig - covering software and hardware setup and including explorations and demos. 
+The resources in this repository can help a developer create a datacam rig - covering software and hardware setup and including explorations and demos. 
 
 ## Setup
 The datacam rig uses the following hardware and software. Detailed setup information can be found in the next sections.
