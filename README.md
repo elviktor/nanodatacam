@@ -3,9 +3,9 @@ Currently a work in progress. This space will contain hardware configurations an
 # Nano Datacam Project 
 
 ## Overview
-The Nano Datacam is a portable rig for using the Jetson Nano to experiment with machinelearning and computervision. It mixes powerful edge conputing technology with high quality professional video capture methods and wireless connectivity to create a unique method of media capture. The project's goal is to create a data camera, a device that blurs borders between digital video, AI, data visualization, computervision and 3D graphics. Such a device can be used in AI research, for generating visuals to accompany drama and dance performances, for producing experimental documentaries, and other uses to further explore.
+The Nano Datacam is a portable rig for using the Jetson Nano to experiment with machine learning and computer vision. It mixes powerful edge computing technology with high quality professional video capture methods and wireless connectivity to create a unique method of media capture. The project's goal is to create a data camera, a device that blurs borders between digital video, AI, data visualization, computervision and 3D graphics. Such a device can be used in AI research, for generating visuals to accompany live drama and dance performances, for producing experimental documentaries, and other uses to further explore.
 
-The resources on this page can help a developer create a datacam rig covering software and hardware setup and including explorations and demos. 
+The resources on this page can help a developer create a datacam rig - covering software and hardware setup and including explorations and demos. 
 
 ## Setup
 The datacam rig uses the following hardware and software. Detailed setup information can be found in the next sections.
@@ -40,4 +40,17 @@ Create two seperate disc images because installing RealSense drivers for the D43
 1. Install Jetpack SDK & NVIDIA Inference - Follow the [pyimagesearch tutorial](https://www.pyimagesearch.com/2019/05/06/getting-started-with-the-nvidia-jetson-nano/)
 2. Install openFrameworks - Follow [madelinegannon's tutorial](https://gist.github.com/madelinegannon/237733e6c114f156b31366f47c1f3d32) 
 
+### Add Wireless Capability to Jetson Nano
+Follow the the [JetsonHacks wireless install tutorial](https://www.jetsonhacks.com/2019/04/08/jetson-nano-intel-wifi-and-bluetooth/).
+
 ### Datacam Rig Setup
+This section has detailed photos of a datacam rig to help you build your own. Each rig will require some customization but the goal of the build is to make a sturdy stable rig that is fairly easy to move around with.
+
+## Use Cases and Application Demos
+The following sections suggest some possible uses for the datacam device with links to application code repositories.  
+1. AI research
+2. Generating visuals to accompany live drama and dance performances
+3. Producing experimental documentaries
+4. Other uses to further explore
+
+
